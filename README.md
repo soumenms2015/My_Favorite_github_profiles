@@ -7,10 +7,10 @@
 6. [Christopher Olah](https://github.com/colah)
 7. [Bharath Ramsundar](https://github.com/rbharath)
 8. [Chip Huyen](https://github.com/chiphuyen)
-#9. [Top Profile](https://github.com/username1)
-#10. [Top Profile](https://github.com/username1)
-#11. [Top Profile](https://github.com/username1)
-#12. [Top Profile](https://github.com/username1)
-#13. [Top Profile](https://github.com/username1)
-#14. [Top Profile](https://github.com/username1)
+<!--9. [Top Profile](https://github.com/username1)
+10. [Top Profile](https://github.com/username1)
+11. [Top Profile](https://github.com/username1)
+12. [Top Profile](https://github.com/username1)
+13. [Top Profile](https://github.com/username1)
+14. [Top Profile](https://github.com/username1)-->
 
